@@ -8,4 +8,4 @@ Through a graphical interface, this program asks the user for the number of proc
 - Finished processes.
 - Global accountant.
   
-[![](https://markdown-videos.deta.dev/https://drive.google.com/file/d/10w2_utkS64yc3fAzR-HUNSR9TIzOHfkK/view?usp=sharing)](https://drive.google.com/file/d/10w2_utkS64yc3fAzR-HUNSR9TIzOHfkK/view?usp=sharing)
+[![](https://markdown-videos.deta.dev/[https://drive.google.com/file/d/10w2_utkS64yc3fAzR-HUNSR9TIzOHfkK/view?usp=sharing](https://youtu.be/6D5pQsvuvyM))]([https://drive.google.com/file/d/10w2_utkS64yc3fAzR-HUNSR9TIzOHfkK/view?usp=sharing](https://youtu.be/6D5pQsvuvyM))
