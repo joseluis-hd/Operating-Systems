@@ -8,3 +8,4 @@ Through a graphical interface, this program asks the user for the number of proc
 - Finished processes.
 - Global accountant.
   
+[![Alt text](https://img.youtube.com/vi/6D5pQsvuvyM/0.jpg)](https://www.youtube.com/watch?v=6D5pQsvuvyM)
